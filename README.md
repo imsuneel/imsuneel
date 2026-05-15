@@ -134,22 +134,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsuneel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsuneel&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsuneel&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 # 🏆 Expertise
 
 * AWS Cloud Infrastructure
