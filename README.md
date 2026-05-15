@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suneel Kumar</h1>
-<h3 align="center">Senior Backend Engineer | Tech Lead | Microservices | Distributed Systems | AWS | High-Scale Systems</h3>
+<h3 align="center">Senior Backend Engineer | Tech Lead | Microservices Architect | AWS Expert</h3>
 
 <p align="center">
   <a href="https://github.com/imsuneel">
