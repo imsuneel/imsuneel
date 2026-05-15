@@ -8,59 +8,183 @@
 </p>
 
 <p align="center">
-  🌐 Portfolio: <a href="https://imsuneel.github.io/profile/">https://imsuneel.github.io/profile/</a>
+  <a href="https://imsuneel.github.io/profile/">🌐 Portfolio</a> •
+  <a href="https://github.com/imsuneel">💻 GitHub</a> •
+  <a href="mailto:suneelweb15@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/imsuneel/">💼 LinkedIn</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=14%2B+Years+of+Experience;Microservices+Architecture+Expert;AWS+%7C+Docker+%7C+Kubernetes;High-Scale+Backend+Systems;Tech+Lead+%7C+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=14%2B+Years+Experience;Microservices+%26+Cloud+Expert;AWS+%7C+Docker+%7C+Kubernetes;Tech+Lead+%7C+System+Design" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-💡 Senior Backend Engineer / Tech Lead with **14+ years** of experience building scalable cloud-native systems and distributed architectures.
+💡 Senior Backend Engineer / Tech Lead with **14+ years** of experience building scalable cloud-native systems, distributed architectures, and high-performance backend platforms.
 
 🔥 Specialized in:
 
-- Microservices Architecture
-- High-Concurrency Systems
-- AWS Cloud Infrastructure
-- System Design
-- CI/CD & DevOps Automation
-- Performance Optimization
-
-📈 Proven Engineering Impact:
-
-- ⚡ Improved system performance by **30–50%**
-- 🚀 Reduced deployment time by **90%**
-- ☁️ Achieved **99.95% uptime**
-- 👥 Built systems serving **1M+ users**
+* Microservices Architecture
+* Distributed Systems
+* AWS Cloud Infrastructure
+* System Design
+* DevOps & CI/CD Automation
+* Performance Optimization
+* Scalable SaaS Platforms
 
 ---
 
-# 🏗️ Architecture & Engineering
+# 📈 Engineering Impact
+
+✅ Improved application performance by **30–50%**
+
+✅ Reduced deployment time by **90%** using CI/CD automation
+
+✅ Achieved **99.95% uptime** for production systems
+
+✅ Built scalable systems serving **1M+ users**
+
+✅ Optimized cloud infrastructure for performance and cost efficiency
+
+---
+
+# 🏗️ Architecture & Engineering Expertise
 
 ```txt
-Microservices Architecture
-Distributed Systems
-System Design
-REST APIs
-Scalable SaaS Platforms
-High Availability Systems
-Cloud-Native Applications
+✔ Microservices Architecture
+✔ Distributed Systems
+✔ REST API Development
+✔ Event-Driven Architecture
+✔ High Availability Systems
+✔ Cloud-Native Applications
+✔ Scalable SaaS Platforms
+✔ High-Concurrency Systems
+✔ API Gateway & Load Balancing
+✔ Secure Authentication Systems
 ```
 
-### 🔥 Tech Stack & Expertise
+---
 
-- **Backend:** PHP 8+, Laravel
-- **Performance & Security:** Load Balancing, API Security, OAuth2, JWT, Monitoring (CloudWatch, Prometheus, New Relic)
-- **Cloud & DevOps (AWS-focused):** AWS (EC2, S3, RDS, CloudFront), GCP, Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD
-- **Databases & Messaging:** MySQL, MariaDB, PostgreSQL, Redis, Query Optimization, Replication, RabbitMQ, Elasticsearch
-- **Best Practices:** Clean Architecture, TDD, SOLID, CI/CD, DevOps with AWS
+# ⚡ Tech Stack
 
-### 🎯 Seeking
+## 🚀 Backend Development
 
-Remote opportunities in **high-performance, security-critical, and highly scalable projects** where I can leverage my expertise in **cloud architectures, backend engineering, and distributed systems**.
+* PHP 8+
+* Laravel
+* REST APIs
+* MVC Architecture
+* Clean Architecture
+* SOLID Principles
 
-📬 Let’s build something great together!
+## ☁️ Cloud & DevOps
+
+* AWS (EC2, S3, RDS, CloudFront, IAM)
+* Docker
+* Kubernetes
+* Jenkins
+* GitHub Actions
+* GitLab CI/CD
+* Nginx
+
+## 🗄️ Databases & Messaging
+
+* MySQL
+* PostgreSQL
+* MariaDB
+* Redis
+* RabbitMQ
+* Elasticsearch
+
+## 🔒 Security & Performance
+
+* OAuth2
+* JWT Authentication
+* API Security
+* Query Optimization
+* Load Balancing
+* Monitoring & Logging
+* Prometheus
+* CloudWatch
+* New Relic
+
+---
+
+# 🛠️ Featured Projects
+
+## 🚀 Enterprise SaaS Platform
+
+* Built scalable multi-tenant SaaS architecture
+* Dockerized deployment pipelines
+* AWS cloud infrastructure setup
+* CI/CD automation implementation
+
+## ⚡ High Performance API System
+
+* Designed APIs for high-concurrency traffic
+* Optimized application latency and database queries
+* Implemented Redis caching & RabbitMQ queues
+
+## ☁️ Cloud-Native Microservices Platform
+
+* Built distributed microservices architecture
+* Kubernetes container orchestration
+* Secure API gateway implementation
+* Monitoring and observability integration
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsuneel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsuneel&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsuneel&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+# 🏆 Expertise
+
+* AWS Cloud Infrastructure
+* Docker & Kubernetes
+* System Design & Scalability
+* DevOps & CI/CD Automation
+* Backend Performance Optimization
+
+---
+
+# 🎯 Currently Seeking
+
+Remote opportunities in:
+
+* High-Performance Backend Systems
+* Cloud-Native Applications
+* Scalable SaaS Platforms
+* Distributed Systems
+* Security-Critical Applications
+* Technical Leadership Roles
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imsuneel/">LinkedIn</a> •
+  <a href="https://github.com/imsuneel">GitHub</a> •
+  <a href="https://imsuneel.github.io/profile/">Portfolio</a> •
+  <a href="mailto:suneelweb15@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider following my GitHub profile.
+</p>
