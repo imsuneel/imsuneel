@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  🌐 Portfolio: <a href="https://imsuneel.github.io/profile/">https://imsuneel.github.io/profile/</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=14%2B+Years+of+Experience;Microservices+Architecture+Expert;AWS+%7C+Docker+%7C+Kubernetes;High-Scale+Backend+Systems;Tech+Lead+%7C+System+Design" />
 </p>
 
@@ -49,11 +53,11 @@ Cloud-Native Applications
 
 ### 🔥 Tech Stack & Expertise
 
-**Backend:** PHP 8+, Laravel 
-**Performance & Security:** Load Balancing, API Security, OAuth2, JWT, Monitoring (CloudWatch, Prometheus, New Relic)  
-**Cloud & DevOps (AWS-focused):** AWS (EC2, S3, RDS, CloudFront), GCP, Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD
-**Databases & Messaging:** MySQL, MariaDB, PostgreSQL, Redis, Query Optimization, Replication, RabbitMQ, Elasticsearch  
-**Best Practices:** Clean Architecture, TDD, SOLID, CI/CD, DevOps with AWS
+- **Backend:** PHP 8+, Laravel
+- **Performance & Security:** Load Balancing, API Security, OAuth2, JWT, Monitoring (CloudWatch, Prometheus, New Relic)
+- **Cloud & DevOps (AWS-focused):** AWS (EC2, S3, RDS, CloudFront), GCP, Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD
+- **Databases & Messaging:** MySQL, MariaDB, PostgreSQL, Redis, Query Optimization, Replication, RabbitMQ, Elasticsearch
+- **Best Practices:** Clean Architecture, TDD, SOLID, CI/CD, DevOps with AWS
 
 ### 🎯 Seeking
 
