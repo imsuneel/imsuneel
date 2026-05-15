@@ -8,10 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://imsuneel.github.io/profile/">🌐 Portfolio</a> •
-  <a href="https://github.com/imsuneel">💻 GitHub</a> •
   <a href="mailto:suneelweb15@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/imsuneel/">💼 LinkedIn</a>
+  <a href="https://imsuneel.github.io/profile/">🌐 Portfolio</a> •
 </p>
 
 <p align="center">
