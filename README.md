@@ -45,3 +45,18 @@ REST APIs
 Scalable SaaS Platforms
 High Availability Systems
 Cloud-Native Applications
+```
+
+### 🔥 Tech Stack & Expertise
+
+**Backend:** PHP 8+, Laravel 
+**Performance & Security:** Load Balancing, API Security, OAuth2, JWT, Monitoring (CloudWatch, Prometheus, New Relic)  
+**Cloud & DevOps (AWS-focused):** AWS (EC2, S3, RDS, CloudFront), GCP, Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI/CD
+**Databases & Messaging:** MySQL, MariaDB, PostgreSQL, Redis, Query Optimization, Replication, RabbitMQ, Elasticsearch  
+**Best Practices:** Clean Architecture, TDD, SOLID, CI/CD, DevOps with AWS
+
+### 🎯 Seeking
+
+Remote opportunities in **high-performance, security-critical, and highly scalable projects** where I can leverage my expertise in **cloud architectures, backend engineering, and distributed systems**.
+
+📬 Let’s build something great together!
